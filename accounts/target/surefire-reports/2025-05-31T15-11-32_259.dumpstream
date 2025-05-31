@@ -1,0 +1,5 @@
+# Created at 2025-05-31T15:11:32.541
+Boot Manifest-JAR contains absolute paths in classpath 'D:\GitHub_Public\TravelBank\microservices-3.4.1\sectionNew8\accounts\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
