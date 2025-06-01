@@ -1,4 +1,4 @@
-# 🧭 Travel Bank – Service Registry (v6.0)
+# 🧭 Travel-Bank_Service Registry (v6.0)
 
 This project is part of the **Travel Bank Microservices** suite. It implements a **Service Registry** using **Spring Cloud Netflix Eureka** and supports **client-side service discovery and load balancing** via **Spring Cloud LoadBalancer**.
 
