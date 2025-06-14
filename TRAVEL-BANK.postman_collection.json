@@ -706,7 +706,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "aishwarya@eazybank.com",
+							"raw": "aishwarya@travelbank.com",
 							"options": {
 								"raw": {
 									"language": "text"
@@ -876,7 +876,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"name\": \"Madan Reddy\",\n    \"email\": \"tutor@eazybytes.com\",\n    \"mobileNumber\": \"4354437687\"\n}",
+							"raw": "{\n    \"name\": \"Vinay Teja\",\n    \"email\": \"travelbank@gmai.com\",\n    \"mobileNumber\": \"4354437687\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -935,7 +935,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"name\": \"Madan Reddy\",\n    \"email\": \"tutor@eazybytes\",\n    \"mobileNumber\": \"4354437687\"\n}",
+							"raw": "{\n    \"name\": \"Vinay Teja\",\n    \"email\": \"travelbank@gmail.com\",\n    \"mobileNumber\": \"4354437687\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
